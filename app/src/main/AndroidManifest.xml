@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="com.quyunshuo.androidbaseframemvvm">
+    package="com.toeii.androidbaseframemvvm">
 
     <uses-permission android:name="android.permission.READ_PHONE_STATE" />
     <uses-permission android:name="android.permission.INTERNET" />
@@ -12,7 +12,7 @@
         tools:ignore="ProtectedPermissions" />
 
     <application
-        android:name=".app.AppApplication"
+        android:name="com.toeii.androidbaseframemvvm.app.AppApplication"
         android:allowBackup="false"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"

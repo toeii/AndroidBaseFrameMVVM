@@ -4,7 +4,7 @@
 
 apply from: '../base_lib.gradle'
 
-import com.quyunshuo.androidbaseframemvvm.buildsrc.*
+import com.toeii.androidbaseframemvvm.buildsrc.*
 
 android {
 

@@ -5,7 +5,7 @@
 apply from: '../base_lib.gradle'
 apply plugin: 'dagger.hilt.android.plugin'
 
-import com.quyunshuo.androidbaseframemvvm.buildsrc.*
+import com.toeii.androidbaseframemvvm.buildsrc.*
 
 android {
 

@@ -1,4 +1,4 @@
-import com.quyunshuo.androidbaseframemvvm.buildsrc.*
+import com.toeii.androidbaseframemvvm.buildsrc.*
 
 buildscript {
     repositories {

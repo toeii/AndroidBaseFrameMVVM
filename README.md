@@ -1,18 +1,6 @@
-# <p align="center"> AndroidBaseFrameMVVM 🐽</p>
+# <p align="center"> AndroidBaseFrameMVVM 改</p>
 
 > &emsp;&emsp;**AndroidBaseFrameMVVM** 是一个Android工程框架，所使用技术栈为：**组件化、Kotlin、MVVM、Jetpack、Repository、Kotlin-Coroutine-Flow**，本框架既是一个可以开箱即用的工程框架基础层，也是一个很好的学习资源，文档下面会对框架中所使用的一些核心技术进行阐述。该框架作为个人技术积累的产物，会一直更新维护，如果有技术方面的谈论或者框架中的错误点，可以在 **GitHub** 上提 **Issues**，我会及时进行回应。希望这个框架项目能给大家带来帮助，喜欢可以Start🌟。
->
-> &emsp;&emsp;项目地址：[AndroidBaseFrameMVVM](https://github.com/Quyunshuo/AndroidBaseFrameMVVM)
-
-## Demo
-
-​		以鸿洋大神的玩安卓开放Api做的一款极简风格的玩安卓，仓库地址：[WanAndroidMVVM](https://github.com/Quyunshuo/WanAndroidMVVM)，该项目正在开发中，由于工作较忙需要一段时间才能完成。如果想看旧版本的demo，可以直接打开demo分支看。
-
-## 框架图示
-
-**谷歌 Android 团队 Jetpack 视图模型：**
-
-<p align="center"><img src="https://github.com/Quyunshuo/AndroidBaseFrameMVVM/blob/master/img/img2.png"/> </p>
 
 ## 模块
 
